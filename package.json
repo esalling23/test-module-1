@@ -1,6 +1,6 @@
 {
-  "name": "starter-module",
-  "description": "EL Web SDK Starter Module",
+  "name": "test-module-1",
+  "description": "Test Module",
   "version": "0.0.4",
   "repository": {
     "type": "git",
